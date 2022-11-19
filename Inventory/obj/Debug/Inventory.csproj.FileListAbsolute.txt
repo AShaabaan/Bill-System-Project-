@@ -1,0 +1,76 @@
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\bin\Debug\EntityFramework.dll
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\bin\Debug\EntityFramework.xml
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.csproj.CopyComplete
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.pdb
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Form1.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Form2.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Form3.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Form4.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Form5.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Form6.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Form7.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\bin\Debug\Inventory.exe.config
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\bin\Debug\Inventory.exe
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\bin\Debug\Inventory.pdb
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\bin\Debug\EntityFramework.dll
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\bin\Debug\EntityFramework.SqlServer.dll
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\bin\Debug\EntityFramework.xml
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\bin\Debug\EntityFramework.SqlServer.xml
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.csproj.SuggestedBindingRedirects.cache
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Form1.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Form2.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Form3.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Form4.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Form5.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Form6.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Form7.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Properties.Resources.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.csproj.GenerateResource.cache
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.csproj.CopyComplete
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.exe
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.pdb
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f1.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f2.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f4.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f5.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f6.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.mig1.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f7.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f8.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f9.resources
+D:\فولدرات وتسجيلات منحة ITI\C# Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f10.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f1.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f2.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f3.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f4.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f5.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.PurshaseInvoice.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Reports.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.All_Product_in_Stock.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.All_Invoices.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Filteration_Products.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Show_All_PurchaseInvoice.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Filtreation_Product_by_Category.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f6.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f7.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.ShowSoldedItems.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f8.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.ShowBackedItems.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f19.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f15.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.f16.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.FilterationProductByPrice.resources
+C:\Users\AHMED SHABAN\source\repos\Project\Inventory\Inventory\obj\Debug\Inventory.Migrations.ff1.resources
